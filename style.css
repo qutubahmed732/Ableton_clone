@@ -503,14 +503,6 @@ ul {
 }
 
 
-
-@media (max-width: 1920px){
-    body {
-        border: 5px solid black;
-    }
-}
-
-
 @media (max-width: 600px) {
 
     header {
